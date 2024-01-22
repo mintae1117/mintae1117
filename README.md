@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is mintaeKim <br> nice to meet you!
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117)
 
