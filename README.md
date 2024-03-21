@@ -18,7 +18,7 @@
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![twind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
 
-<h2>Consisting Language</h2>
+<h2>Consisting Language</h2><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&theme=blue-green)<br>
 
