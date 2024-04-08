@@ -1,4 +1,4 @@
-## Hi there 👋 My name is mintaeKim nice to meet you!!
+# Hi there 👋 My name is mintaeKim nice to meet you!!
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117)
 
