@@ -39,7 +39,7 @@
 ![twind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
-
+<br><br>
 <!--
 **mintae1117/mintae1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
