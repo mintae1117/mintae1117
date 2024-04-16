@@ -1,5 +1,7 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117)
 
+<br>
+
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green)
@@ -9,7 +11,8 @@
 </div>
 
 <div align="center">
-  
+<br>
+
 # Tech Stacks
 
 <br>
