@@ -51,7 +51,7 @@
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 
 </div>
-<br><br>
+<br>
 <!--
 **mintae1117/mintae1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
