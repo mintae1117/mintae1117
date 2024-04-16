@@ -3,6 +3,8 @@
 <br>
 
 <div align="center">
+
+# Github Stats
   
 ![](https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green)
 <br><br>
