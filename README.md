@@ -3,6 +3,12 @@
 # Hi there 👋 My name is mintaeKim nice to meet you!!
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&theme=blue-green)
+
+![](https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green)
+  
+
 </div>
 
 <div align="center">
