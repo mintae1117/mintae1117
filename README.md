@@ -1,7 +1,5 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117)
 
-<br>
-
 <div align="center">
 
 # Github Stats
