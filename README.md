@@ -1,17 +1,15 @@
 <div align="center">
 
-# Hi there 👋 My name is mintaeKim nice to meet you!!
-
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&theme=blue-green)
-
-![](https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green)
   
+![](https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&theme=blue-green)  
 
 </div>
 
 <div align="center">
+  
 <h2>Tech Stacks</h2>
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,14 +25,13 @@
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-</div>
 
-<div align="center">
 <h2>Now Studying</h2>
 
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![twind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </div>
 
 <!--
