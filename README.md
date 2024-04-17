@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# Github Stats
+# 💻 Github Stats
 <br>
   
 ![](https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green)
@@ -22,7 +22,7 @@
 <div align="center">
 <br>
 
-# My Tech Stacks
+# ⭐️ My Tech Stacks
 
 <h3>Learned or experienced</h3>
 
