@@ -7,6 +7,12 @@
 ### 고정된 저장소는 README를 써놨습니다. 구경하고 가세요.
 
 <br>
+
+### 😊Hello. My name is $\bf{\huge{\color{#0CF574}mintaeKim}}$.
+### My motto is "Let go without hesitation, be grateful for what's left, and don't be afraid of new things".
+### The pinned repositories have README on each of it. Feel free to look around.
+
+<br>
   
 </div>
 
