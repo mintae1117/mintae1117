@@ -1,9 +1,11 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117)
 
 <div align="center">
+  
+### 😊안녕하세요. $\bf{\huge{\color{#0CF574}김민태}}$라고 합니다.
+### 제 좌우명은 미련없이 보내고, 남은것에 감사하고, 새로운 것에 두려워 말자 입니다.
+### 고정된 저장소는 README를 써놨습니다. 구경하고 가세요.
 
-### 미련없이 보내고, 남은것에 감사하고, 새로운 것에 두려워 말자.
-### 😊안녕하세요. $\bf{\large{\color{#0CF574}김민태}}$ 라고 합니다.
 <br>
   
 </div>
