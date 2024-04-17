@@ -2,7 +2,16 @@
 
 <div align="center">
 
+### 미련없이 보내고, 남은것에 감사하고, 새로운 것에 두려워 말자.
+### 안녕하세요. 책임감 있는 개발자 김민태라고 합니다.
+<br>
+  
+</div>
+
+<div align="center">
+
 # Github Stats
+<br>
   
 ![](https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green)
 <br><br>
