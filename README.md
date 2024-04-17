@@ -8,9 +8,9 @@
 
 <br>
 
-### (😊Hello. My name is $\bf{\huge{\color{#0CF574}mintaeKim}}$.
+### 😊Hello. My name is $\bf{\huge{\color{#0CF574}mintaeKim}}$.
 ### My motto is "Let go without hesitation, be grateful for what's left, and don't be afraid of new things".
-### The pinned repositories got README on each of them. Feel free to look around!)
+### The pinned repositories got README on each of them. Feel free to look around!
 
 <br>
   
