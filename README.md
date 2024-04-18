@@ -2,18 +2,18 @@
 
 <div align="center">
   
-### 😊안녕하세요. 저는 $\bf{\huge{\color{#0CF574}김민태}}$라고 합니다.
+### 😄안녕하세요. 저는 $\bf{\huge{\color{#0CF574}김민태}}$라고 합니다.
 ### 제 좌우명은 미련없이 보내고, 남은것에 감사하고, 새로운 것에 두려워 말자 입니다.
 ### 고정된 저장소들은 README를 써놨습니다. 구경하고 가세요!
 
 <br>
 
-### 😊Hello. My name is $\bf{\huge{\color{#0CF574}mintaeKim}}$.
+### 😄Hello. My name is $\bf{\huge{\color{#0CF574}mintaeKim}}$.
 ### My motto is "Let go without hesitation, be grateful for what's left, and don't be afraid of new things".
 ### The pinned repositories got README on each of them. Feel free to look around!
 
 <br>
-  
+
 </div>
 
 <div align="center">
@@ -69,17 +69,4 @@
 
 </div>
 <br>
-<!--
-**mintae1117/mintae1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
