@@ -10,7 +10,7 @@
 
 ### 😄Hello. My name is $\bf{\huge{\color{#2E97C1}mintaeKim}}$.
 ### My motto is "Let go without hesitation, be grateful for what's left, and don't be afraid of new things".
-### The pinned repositories got $\bf{\large{\color{#0CF474}README}}$ on each of them. Feel free to look around!
+### The pinned repositories got $\bf{\large{\color{#0CF474}README}}$ for each of them. Feel free to look around!
 
 <br>
 
