@@ -8,9 +8,15 @@
 
 <br>
 
+<details>
+    <summary>영어로 보기(English version)</summary>
+
+<!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 😄Hello. My name is $\bf{\huge{\color{#2E97C1}mintaeKim}}$.
 ### My motto is "Let go without hesitation, be grateful for what's left, and don't be afraid of new things".
 ### The pinned repositories got $\bf{\large{\color{#0CF474}README}}$ for each of them. Feel free to look around!
+
+</details>
 
 <br>
 
