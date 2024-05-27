@@ -1,4 +1,4 @@
-![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117) 깃팔하면 맞팔 환영입니다~!
+![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117) *깃팔하면 맞팔 환영입니다~!*
 
 <div align="center">
   
