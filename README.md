@@ -1,5 +1,5 @@
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117)
-<p>깃팔 해주시면 맞팔 합니다~!</p>
+<p>깃팔 해주시면 맞팔 합니다~! 깃친해요!!</p>
 
 <div align="center">
   
