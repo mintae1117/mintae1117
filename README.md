@@ -1,5 +1,5 @@
 <div>
-  <img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" /> 깃팔 해주시면 맞팔 합니다~! 깃친해요!!
+  <img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" /> 깃팔 해주시면 맞팔 할게요~! 깃친해요!
 </div>
 
 <div align="center">
