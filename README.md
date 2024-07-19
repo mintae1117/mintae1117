@@ -5,8 +5,8 @@
 <div align="center">
   
 ### 😄 저는 프론트엔드 개발자 $\bf{\huge{\color{#2E97C1}김민태}}$라고 합니다.
-### 제 좌우명은 미련없이 보내고, 남은것에 감사하고, 새로운 것을 두려워 말자 입니다.
-### 고정된 저장소들은 $\bf{\large{\color{#0CF474}README}}$를 써놨습니다. 구경하고 가세요!
+#### 제 좌우명은 미련없이 보내고, 남은것에 감사하고, 새로운 것을 두려워 말자 입니다.
+#### 고정된 저장소들은 $\bf{\large{\color{#0CF474}README}}$를 써놨습니다. 구경하고 가세요!
 
 <br>
 
@@ -15,8 +15,8 @@
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 ### 😄 Hello. My name is $\bf{\huge{\color{#2E97C1}mintaeKim}}$. I'm a Front-End Developer.
-### My motto is "Let go without hesitation, be grateful for what's left, and don't be afraid of new things".
-### The pinned repositories got $\bf{\large{\color{#0CF474}README}}$ on each of them. Feel free to look around!
+#### My motto is "Let go without hesitation, be grateful for what's left, and don't be afraid of new things".
+#### The pinned repositories got $\bf{\large{\color{#0CF474}README}}$ on each of them. Feel free to look around!
 
 </details>
 
@@ -30,6 +30,7 @@
 <br>
 
 <div align="center">
+  
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green"/>
   &nbsp;
   &nbsp;
