@@ -42,7 +42,7 @@
 <div align="center">
 <br>
 
-# ⭐️ My Tech Stacks
+# ⭐️ My Tech Stacks!
 
 <details>
     <summary> Show Every Stacks.</summary>
