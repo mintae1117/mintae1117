@@ -48,7 +48,7 @@
     <summary> Show Every Stacks.</summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
-  <h3>Learned or experienced</h3>
+  <h3>Learned Or Experienced</h3>
 
   ![vsvode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![visualstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -83,14 +83,14 @@
 </details>
 
 
-<h3>Now studying</h3>
+<h3>Now Studying</h3>
 
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![twind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![threejs](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-<h3>Most confident skills</h3>
+<h3>Most Confident Skills</h3>
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
