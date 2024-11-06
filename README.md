@@ -43,7 +43,7 @@
 # ⭐️ My Tech Stacks!
 
 <details>
-    <summary> Show Every Stacks.</summary>
+    <summary> Show Every Stacks</summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
   <h3>Learned Or Experienced</h3>
