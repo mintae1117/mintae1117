@@ -29,8 +29,6 @@
 
 <div align="center">
   
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=mintae1117&theme=blue-green"/>
-  &nbsp;
   &nbsp;
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&theme=blue-green"/>
 </div>
