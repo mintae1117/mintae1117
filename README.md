@@ -23,19 +23,6 @@
 </div>
 
 <div align="center">
-
-# 💻 Github Stats
-<br>
-
-<div align="center">
-  
-  &nbsp;
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&theme=blue-green"/>
-</div>
-
-</div>
-
-<div align="center">
 <br>
 
 # ⭐️ My Tech Stacks!
