@@ -73,7 +73,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mintae1117&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mintae1117&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
