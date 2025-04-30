@@ -18,12 +18,15 @@
 
 </details>
 
-<br>
-
 </div>
 
 <div align="center">
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mintae1117&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 # ⭐️ My Tech Stacks!
 
@@ -70,11 +73,6 @@
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 
 </details>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mintae1117&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 </div>
 <br>
