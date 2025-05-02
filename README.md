@@ -25,7 +25,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mintae1117&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=radical&exclude_repo=jinjood-rice-cake" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=radical&exclude_repo=jinjood-rice-cake,Moonhair" alt="Top Languages" />
 </div>
 
 # ⭐️ My Tech Stacks!
