@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=radical&exclude_repo=jinjood-rice-cake" alt="Top Languages" />
 </div>
 
-# ⭐️ My Tech Stacks!
+# ★ My Tech Stacks!
 
 <details>
     <summary> Show Every Stacks</summary>
