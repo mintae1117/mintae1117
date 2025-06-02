@@ -4,8 +4,8 @@
 
 <div align="center">
   
-### 😄 저는 프론트엔드 개발자 $\bf{\huge{\color{#D93A7D}김민태}}$라고 합니다.
-### 고정된 저장소들은 $\bf{\large{\color{#A9FEF7}README}}$를 써놨습니다. 구경하고 가세요!
+### 😄 저는 프론트엔드 개발자 **김민태**라고 합니다.
+### 고정된 저장소들은 README를 써놨습니다. 구경하고 가세요!
 
 <br>
 
@@ -13,8 +13,8 @@
     <summary>영어로 보기(English version)</summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
-### 😄 Hello. My name is $\bf{\huge{\color{#D93A7D}mintaeKim}}$ and I'm a Front-End Developer.
-### The pinned repositories got $\bf{\large{\color{#A9FEF7}README}}$ on each of them. Feel free to look around!
+### 😄 Hello. My name is mintaeKim and I'm a Front-End Developer.
+### The pinned repositories got README on each of them. Feel free to look around!
 
 </details>
 
