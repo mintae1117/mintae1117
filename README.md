@@ -1,8 +1,11 @@
-<div>
-  <img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" />
-</div>
+
 
 <div align="center">
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Github!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Frontend%20engineer%20MintaeKim&descAlignY=51&descAlign=62"/>
+</p>
+
   
 ### 😄 저는 프론트엔드 개발자 **김민태**라고 합니다.
 ### 고정된 저장소들은 README를 써놨습니다. 구경하고 가세요!
@@ -24,8 +27,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mintae1117&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=radical&exclude_repo=jinjood-rice-cake" alt="Top Languages" />
+  <span>Visited </span><img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" />
 </div>
 
 # ★ My Tech Stacks!
