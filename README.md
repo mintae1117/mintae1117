@@ -3,9 +3,12 @@
 <div align="center">
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Github!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Frontend%20engineer%20MintaeKim&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Github!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=I'm%20Front-End%20Developer%20mintaeKim&descAlignY=51&descAlign=62"/>
 </p>
 
+<div align="center">
+  <span>Visited </span><img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" />
+</div>
   
 ### 😄 저는 프론트엔드 개발자 **김민태**라고 합니다.
 ### 고정된 저장소들은 README를 써놨습니다. 구경하고 가세요!
@@ -25,10 +28,6 @@
 
 <div align="center">
 <br>
-
-<div align="center">
-  <span>Visited </span><img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" />
-</div>
 
 # ★ My Tech Stacks!
 
