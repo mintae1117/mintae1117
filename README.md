@@ -7,17 +7,21 @@
 </div>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mintae1117&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB" />
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB" />
-  
+</div>
+
+<br/>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hello!;My+Name+Is+MinTae!;Nice+Meeting+You!" alt="Typing SVG" />
+</div>
 
 </div>
 
 <div align="center">
 
-<h3>Most Confident Skills</h3>
+<br/>
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
