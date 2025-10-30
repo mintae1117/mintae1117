@@ -2,17 +2,29 @@
 
 <div align="center">
 
-<div align="center">
-  <img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" />
+<div align="left">
+  <span>Visited : </span><img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" />
 </div>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mintae1117&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB" />
   
-### 😊 반갑습니다
-### Nice meeting you
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hello!;My+Name+Is+MinTae!;Nice+Meeting+You!" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-<br>
+
+<h3>Most Confident Skills</h3>
+
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![twind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <details>
     <summary> Show Every Stacks</summary>
@@ -62,15 +74,6 @@
   ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
   
 </details>
-
-<h3>Most Confident Skills</h3>
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![twind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 <br>
