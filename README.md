@@ -5,16 +5,13 @@
 <div align="left">
   <span>Visited : </span><img align="top" src="https://gh-hits.nomadcoders.workers.dev/view?username=mintae1117" />
 </div>
-<br/>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&exclude_repo=jinjood-rice-cake" />
-</div>
-
-<br/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hello!;My+Name+Is+MinTae!;Nice+To+Meet+You!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&exclude_repo=jinjood-rice-cake" />
 </div>
 
 </div>
