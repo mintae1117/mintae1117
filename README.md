@@ -20,18 +20,10 @@
 
 <br/>
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![twind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 <details>
-    <summary> Show Every Stacks</summary>
+    <summary> Show Every Skill Stacks</summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
-  <h3>Learned Or Experienced</h3>
 
   <div>
       <h4>Front-End</h4>
@@ -77,5 +69,4 @@
 </details>
 
 </div>
-<br>
 
