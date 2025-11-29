@@ -21,7 +21,7 @@
 <br/>
 
 <details>
-    <summary> Show Every Skill Stacks</summary>
+    <summary>Show Every Skill Stacks</summary>
 
 <!-- summary 아래 한칸 공백 두고 내용 삽입 -->
 
