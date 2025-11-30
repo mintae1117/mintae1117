@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&exclude_repo=jinjood-rice-cake" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&exclude_repo=jinjood-rice-cake" />
 </div>
 
 </div>
