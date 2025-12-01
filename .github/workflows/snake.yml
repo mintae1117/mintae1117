@@ -2,28 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 자정 자동 생성
-  workflow_dispatch: # 수동 실행 가능
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Animation
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: mintae1117
           outputs: |
-            dist/snake.svg
-            dist/snake.gif?palette=github-dark
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist
+            dist/github-snake.svg?palette=github-dark&color_snake=15d158&color_dots=#2ea043,#26a641,#1a7f37,#116329,#0e4429
+            dist/github-snake-dark.svg?palette=github-dark
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
