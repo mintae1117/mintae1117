@@ -14,7 +14,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mintae1117&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB" />
 </div>
 
-<img src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" />
+![snake svg](https://github.com/mintae1117/mintae1117/blob/output/snake.svg)
 
 </div>
 
