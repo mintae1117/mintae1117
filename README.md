@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=My+Name+Is+MinTae!;Nice+To+Meet+You!" alt="Typing SVG" />
 </div>
 
-![snake svg](https://github.com/mintae1117/mintae1117/blob/output/snake.svg)
+![snake svg](https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg)
 
 </div>
 
