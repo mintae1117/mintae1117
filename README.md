@@ -16,10 +16,8 @@
 
 <div align="center">
 
-## Tech Stack
-
 <details>
-<summary><b>전체 기술 스택 보기</b></summary>
+<summary><b>Tech Stack</b></summary>
 <br/>
 
 ### Front-End
