@@ -20,6 +20,13 @@
 <summary><b>Tech Stack</b></summary>
 <br/>
 
+<a href="https://github.com/mintae1117" target="_blank">
+    <img 
+      alt="mintae1117's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&langs_count=6&layout=compact&theme=react&hide_border=false&title_color=#60DBFB" 
+    />
+</a>
+
 ### Front-End
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
