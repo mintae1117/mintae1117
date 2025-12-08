@@ -21,9 +21,12 @@
 <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&langs_count=6&layout=compact&theme=react&hide_border=true&title_color=#60DBFB" width="35%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mintae1117&theme=react" width="33%"/>
 
+<br/>
+
+<img src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" width="76%" />
+
 </div>
 
-<img src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" />
 
 <br clear="both" />
 
