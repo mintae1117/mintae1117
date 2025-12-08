@@ -10,7 +10,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=My+Name+Is+MinTae!;Nice+To+Meet+You!" alt="Typing SVG" />
 </div>
 
-![snake svg](https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg)
+<p>
+  <img align="left" width="60%" src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" />
+  <a href="https://github.com/mintae1117" target="_blank">
+    <img 
+      align="right"
+      width="35%"
+      alt="mintae1117's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&langs_count=6&layout=compact&theme=react&hide_border=false&title_color=#60DBFB" 
+    />
+  </a>
+</p>
+<br clear="both" />
 
 </div>
 
@@ -19,13 +30,6 @@
 <details>
 <summary><b>Tech Stack</b></summary>
 <br/>
-
-<a href="https://github.com/mintae1117" target="_blank">
-    <img 
-      alt="mintae1117's Top Languages" 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&langs_count=6&layout=compact&theme=react&hide_border=false&title_color=#60DBFB" 
-    />
-</a>
 
 ### Front-End
 
