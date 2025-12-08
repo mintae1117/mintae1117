@@ -10,15 +10,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=My+Name+Is+MinTae!;Nice+To+Meet+You!" alt="Typing SVG" />
 </div>
 
-<p>
-  <img align="left" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintae1117&theme=react" />
+<div align="center">
+  <img align="left" width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintae1117&theme=react" />
   <img 
     align="right"
-    width="31%"
+    width="33%"
     alt="mintae1117's Top Languages" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&langs_count=6&layout=compact&theme=react&hide_border=true&title_color=#60DBFB" 
   />
-</p>
+</div>
 
 <img src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" />
 
