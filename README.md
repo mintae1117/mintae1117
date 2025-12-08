@@ -10,6 +10,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=My+Name+Is+MinTae!;Nice+To+Meet+You!" alt="Typing SVG" />
 </div>
 
+<br/>
+
 <div align="center">
   <img align="left" width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintae1117&theme=react" />
   <img 
