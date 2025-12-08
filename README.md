@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" width="76%" />
+<img src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" width="78%" />
 
 </div>
 
