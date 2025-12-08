@@ -25,9 +25,6 @@
 
 </div>
 
-
-<br clear="both" />
-
 </div>
 
 <div align="center">
