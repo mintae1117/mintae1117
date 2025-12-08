@@ -11,10 +11,10 @@
 </div>
 
 <p>
-  <img align="left" width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintae1117&theme=react" />
+  <img align="left" width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintae1117&theme=react" />
   <img 
     align="right"
-    width="33%"
+    width="31%"
     alt="mintae1117's Top Languages" 
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&langs_count=6&layout=compact&theme=react&hide_border=true&title_color=#60DBFB" 
   />
