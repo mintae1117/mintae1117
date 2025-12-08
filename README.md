@@ -27,7 +27,6 @@
 
 <details>
 <summary><b>Tech Stack</b></summary>
-<br/>
 
 ### Front-End
 
