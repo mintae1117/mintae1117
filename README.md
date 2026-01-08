@@ -12,12 +12,7 @@
 
 <div align="center">
 
-<img src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" width="92%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintae1117&theme=react" width="58%"/>
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mintae1117&langs_count=6&layout=compact&theme=react&hide_border=true&title_color=#60DBFB" width="30%"/>
+<img src="https://github.com/mintae1117/mintae1117/blob/output/github-snake-dark.svg" width="96%" />
 
 </div>
 
